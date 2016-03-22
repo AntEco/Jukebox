@@ -1,0 +1,59 @@
+body {
+	width: 100%;
+	height: 100%;
+	font-family: 'Covered By Your Grace', cursive;
+	font-weight: bold;
+	font-size: 170%;
+	background-color: #4d4d4d;
+}
+/*
+#player {
+	border: 1px solid gray;
+	margin-left: 20px;
+	margin-top: 10px;
+}*/
+
+button {
+	font-family: 'Covered By Your Grace', cursive;
+	font-weight: bold;
+	font-size: 160%;
+	background-color: darkgrey;
+    border: none;
+    color: black;
+    padding: 15px 50px;
+    margin: 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border: 2px solid black;
+}
+
+#buttons {
+	float: left;
+	clear: left;
+}
+/*
+#advisory {
+	float: right;
+}*/
+
+#playsongs {
+	margin-top: 20px;
+	margin-left: 20px;
+	float: left;
+	clear:left;
+	width: 440px;
+}
+
+#action {
+	float: left;
+	clear: none;
+	margin-left: 100px;
+	margin-top: 10px;
+}
+
+#title {
+	clear: both;
+	font-size: 290%;
+	font-weight: bold;
+}
